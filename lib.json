@@ -1,0 +1,22 @@
+{
+    "id": "light_health_bars",
+    "authors": [
+        "TheCodingPro",                    // original author
+    ],
+    "version": "v1.0.0",
+    "engineVer": "v0.9.0-dev",
+
+    "config": {
+        ///// Light World Health Bar Style
+        // Determines the appearance of the Light World Health Bar
+        ///// Values:
+        //
+        // "tsunderswap"
+        // The Overworld Health Bar from TS!Underswap.
+        //
+        // "deltatraveler"
+        // The Light World Health Bar from Deltatraveler.
+        //
+        "light_health_bar_style": "deltatraveler"
+    }
+}
